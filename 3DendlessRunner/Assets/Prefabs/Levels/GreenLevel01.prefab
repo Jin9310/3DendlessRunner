@@ -602,12 +602,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2045878371495247606, guid: e656324c8c3d44c448c8ae5c67bdfb89, type: 3}
       propertyPath: levelCollection.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2045878371495247606, guid: e656324c8c3d44c448c8ae5c67bdfb89, type: 3}
       propertyPath: levelCollection.Array.data[0]
       value: 
       objectReference: {fileID: 5024616936050515911}
+    - target: {fileID: 2045878371495247606, guid: e656324c8c3d44c448c8ae5c67bdfb89, type: 3}
+      propertyPath: levelCollection.Array.data[1]
+      value: 
+      objectReference: {fileID: 5024616936050515911, guid: 73929b68dd8318e45aa9792644e862ec, type: 3}
     - target: {fileID: 5106906474786530840, guid: e656324c8c3d44c448c8ae5c67bdfb89, type: 3}
       propertyPath: m_Name
       value: LevelGenerationTrigger
